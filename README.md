@@ -1,9 +1,6 @@
 Hi 👋 My name is Jan Patrick Urbano
 ===================================
 
-Web Developer
--------------
-
 My passion lies in creating digital experiences that are not only visually appealing but also functional and efficient. With a foundation in web development and a commitment to continuous learning, I strive to deliver solutions that meet both technical requirements and user needs.
 
 
