@@ -15,7 +15,17 @@ My passion lies in creating digital experiences that are not only visually appea
 
 ### Socials
 <p align="left">
-  <a href="https://www.facebook.com/Accezen" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://img.icons8.com/ios-filled/50/EBEBEB/facebook-new.png" alt="facebook-new"/></a>
-  <a href="https://www.github.com/Accezen" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://img.icons8.com/glyph-neue/64/EBEBEB/github.png" alt="github"/></a>
-  <a href="https://www.linkedin.com/in/jan-patrick-urbano-899170251" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://img.icons8.com/glyph-neue/64/EBEBEB/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/Accezen" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://img.icons8.com/ios-filled/50/4AB197/facebook-new.png" alt="facebook-new"/></a>
+  <a href="https://www.github.com/Accezen" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://img.icons8.com/glyph-neue/64/4AB197/github.png" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/jan-patrick-urbano-899170251" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://img.icons8.com/glyph-neue/64/4AB197/linkedin.png" alt="linkedin"/></a>
 </p>
+
+### Pinned Repositories
+
+<a href="https://github.com/Accezen/miltea-coffee-shop">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=accezen&repo=miltea-coffee-shop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Accezen/psu-alumni-connect">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=accezen&repo=psu-alumni-connect&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
