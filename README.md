@@ -17,13 +17,14 @@ I am <b> Jan Patrick Urbano</b>, my passion lies in creating digital experiences
 
 ### Pinned Repositories
 
+<a href="https://github.com/Accezen/psu-alumni-connect">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=accezen&repo=psu-alumni-connect&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/Accezen/miltea-coffee-shop">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=accezen&repo=miltea-coffee-shop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Accezen/psu-alumni-connect">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=accezen&repo=psu-alumni-connect&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 ## GitHub Stats
 
